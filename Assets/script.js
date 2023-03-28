@@ -21,7 +21,7 @@ saveButtons.forEach(function (saveButton) {
     localStorage.setItem(timeBlockId, description);
   });
 });
- 
+
   // Get the current hour using Day.js
 const currentHour = dayjs().hour();
 
