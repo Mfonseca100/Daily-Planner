@@ -53,7 +53,8 @@ const currentDateElement = document.querySelector('#current-date');
 // Set the inner text of the HTML element to the current date
 currentDateElement.innerText = currentDate;
 });
-
+//jquery code to select the textarea elements with the class description inside the elements 
+//with ID hour 9-18 and setting their values to the corresponding values stored in local storage. 
 $('#hour-9 .description').val(localStorage.getItem('hour-9'));
 $('#hour-10 .description').val(localStorage.getItem('hour-10'));
 $('#hour-11 .description').val(localStorage.getItem('hour-11'));
