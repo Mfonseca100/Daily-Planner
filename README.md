@@ -33,4 +33,4 @@ THEN the saved events persist
 ```
 
 ## Screenshot of Deployed Site 
-![Screenshotofclearschedule](./Assets/mfonseca100.github.io_Work-Day-Planner-2023_%20(1).png)
+![Screenshotofclearschedule](./Assets/images/mfonseca100.github.io_Work-Day-Planner-2023_%20(1).png)
